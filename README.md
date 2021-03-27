@@ -1,4 +1,4 @@
-# CalCOFI-data-visualization
+# CalCOFI-hackathon
 
 Brief overview of the visualizations I created for the hackathon:
 
